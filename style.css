@@ -331,6 +331,10 @@ img {
         gap: 20px;
     }
 
+    .principal {
+        padding: 0 10px;
+    }
+
     .titulo {
         font-size: 3.5rem;
     }
